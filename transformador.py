@@ -4,6 +4,7 @@ irregularVerbs = {
     "arise": "arose",
     "be": "was/were",
     "beat": "beat"
+    # incluir aqui todos los verbos irregulares
 }
 
 
